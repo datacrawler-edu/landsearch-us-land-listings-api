@@ -1,0 +1,7 @@
+{
+  "location": "Texas",
+  "maxItems": 3,
+  "listingFormat": "sale",
+  "minAcres": 1,
+  "maxAcres": 100
+}
